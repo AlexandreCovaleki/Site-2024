@@ -2,8 +2,27 @@
 
 body
 {
-    background-color:#73d373;
-    color:#1d571d;
-    font-size: 12pt;
+    font-size: 13pt;
     font-family:Arial;
+    text-align: center;
+    color: rgb(30, 30, 30);
+    background-image: linear-gradient(90deg, rgb(21, 90, 32), rgb(64, 238, 78) );
 }
+h1
+{
+    color:rgb(30, 30, 30);
+    font-size: 26pt;
+}
+h2
+{
+    color:rgb(30, 30, 30);
+}
+p
+{
+    font-size: 16pt;
+}
+a
+{
+  text-decoration: none;
+}
+
