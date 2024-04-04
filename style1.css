@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body
+{
+   background-color: rgb(16, 151, 16);
+   text-align: center; 
+}
+h1
+{
+    font-size: 26pt;
+    font-family: Arial;
+}
+p
+{
+    font-size: 15pt;
+    font-family: sans-serif;
+}
+h2
+{
+    font-size: 22pt;
+    font-family: Arial;
+}
+li
+{
+    font-size: 13pt;
+    font-family: sans-serif;
+}
+
